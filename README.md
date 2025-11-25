@@ -10,13 +10,6 @@ here are photos me and my people took...not all photos from shoot uploded yet</h
 </html>
 <img src="https://lap-snap-photography.neocities.org/resize%20the%20first%20upl.png">
 
-<img src="https://lap-snap-photography.neocities.org/IMG_2838.JPG" alt="Outdoor photo" style="width:1538px; height:auto;">
-
-<img src="https://lap-snap-photography.neocities.org/IMG_2790.JPG" alt="Outdoor photo" style="width:1538px; height:auto;">
-
-<img src="https://lap-snap-photography.neocities.org/IMG_2785.JPG" alt="Outdoor photo" style="width:1538px; height:auto;">
-
-<img src="https://lap-snap-photography.neocities.org/IMG_2788.JPG" alt="Outdoor photo" style="width:1538px; height:auto;">
 
 <img src="https://lap-snap-photography.neocities.org/IMG-20251110-WA0046.jpg" style="width:1538px; height:auto;">
 
@@ -24,9 +17,11 @@ here are photos me and my people took...not all photos from shoot uploded yet</h
 
 <h1 style="font-size:80px">more photo shoots coming soon</h1>
 
-
-
-
-
-
 <img src="" alt="coming soon" style="width:1538px; height:auto;">
+<img src="https://lap-snap-photography.neocities.org/IMG_2838.JPG" alt="Outdoor photo" style="width:1538px; height:auto;">
+
+<img src="https://lap-snap-photography.neocities.org/IMG_2790.JPG" alt="Outdoor photo" style="width:1538px; height:auto;">
+
+<img src="https://lap-snap-photography.neocities.org/IMG_2785.JPG" alt="Outdoor photo" style="width:1538px; height:auto;">
+
+<img src="https://lap-snap-photography.neocities.org/IMG_2788.JPG" alt="Outdoor photo" style="width:1538px; height:auto;">
